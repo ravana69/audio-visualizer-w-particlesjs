@@ -201,7 +201,7 @@ let drawVisual = null
 const processAudio = mp3 => {
   let audio = null
   if(mp3 === 'default'){
-    audio = new Audio('http://node-12.zeno.fm/ukc8b9e5a48uv?zs=TQaOuElcRECKenUIHCs20g&rj-ttl=3&rj-tok=AAABgiRJBIEAbxY6E0QED5EuTg')
+    audio = new Audio('https://1.ravana69.workers.dev/-----http://node-06.zeno.fm/ukc8b9e5a48uv?zs=TQaOuElcRECKenUIHCs20g&rj-ttl=2&rj-tok=AAABgiRNWk8Al_8vIXMVb8SpuQ')
     audio.crossOrigin = 'anonymous'
   }
   else{
